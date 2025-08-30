@@ -1,4 +1,4 @@
-# GenAI-with-LangChain
+# GenAI-with-LangChain 🔗
 How will we proceed?
 + LangChain Basics
 + LangChain Components
