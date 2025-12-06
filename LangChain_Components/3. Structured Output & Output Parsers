@@ -1,3 +1,17 @@
-## Structured Output
+# Structured Output & Output Parsers (LangChain Series)
 
-In LangChain, structured output refers to the practice of having language models return responses in a well-defined data format(for example-json), rather than free form text. This makes the model output easier to parse and work with programatically.
+Welcome back to our LangChain Learning Series!  
+In this part, we explore one of the most important concepts for building reliable AI systems: **Structured Output**.
+
+When building APIs, document extraction systems, or agents, you need language models that return information in **predictable, machine-readable formats** instead of random free-text paragraphs.  
+LangChain gives us powerful tools to achieve this.
+
+---
+
+# 📌 Structured Output
+
+In LangChain, *structured output* means getting LLM responses in a **well-defined format** (e.g., JSON) instead of free-form natural language. This makes downstream automation easier and more reliable.
+
+### Example
+
+❌ Free text  
