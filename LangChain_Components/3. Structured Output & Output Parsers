@@ -1,0 +1,3 @@
+## Structured Output
+
+In LangChain, structured output refers to the practice of having language models return responses in a well-defined data format(for example-json), rather than free form text. This makes the model output easier to parse and work with programatically.
